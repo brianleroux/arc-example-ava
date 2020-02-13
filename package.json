@@ -1,0 +1,14 @@
+{
+  "name": "arc-example-ava",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "test": "NODE_ENV=testing QUIET=1 ava"
+  },
+  "dependencies": {
+    "@architect/architect": "^6.2.0",
+    "@begin/data": "^1.2.0",
+    "ava": "^3.3.0",
+    "tiny-json-http": "^7.1.2"
+  }
+}
